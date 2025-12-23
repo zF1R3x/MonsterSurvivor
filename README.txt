@@ -1,5 +1,4 @@
-This is a 2D Top-Down Shooter
-BE CAREFUL FOR LOUD MUSIC ON START (You can turn it down in Options)
+This is a 2D Top-Down Shooter made in Unity
 
 Basic Control:
 WASD: Movement
